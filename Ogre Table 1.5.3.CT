@@ -21,13 +21,6 @@
       <GroupHeader>1</GroupHeader>
     </CheatEntry>
     <CheatEntry>
-      <ID>1337024730</ID>
-      <Description>"BY OPENING THIS TABLE YOU SWEAR YOUR LOYALTY TO THE OGRELORD"</Description>
-      <LastState Value="" RealAddress="00000000"/>
-      <Color>800080</Color>
-      <GroupHeader>1</GroupHeader>
-    </CheatEntry>
-    <CheatEntry>
       <ID>1337024732</ID>
       <Description>"YOU USE THIS TABLE AT YOUR OWN RISK"</Description>
       <LastState Value="" RealAddress="00000000"/>
@@ -54,41 +47,85 @@
       <LastState Value="" RealAddress="00000000"/>
       <Color>008080</Color>
       <GroupHeader>1</GroupHeader>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>1337024793</ID>
-      <Description>"Then proceed using the table for further use on that character"</Description>
-      <LastState Value="" RealAddress="00000000"/>
-      <Color>008080</Color>
-      <GroupHeader>1</GroupHeader>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>1337024791</ID>
-      <Description>"That way you have the lowest chance on not getting banned"</Description>
-      <LastState Value="" RealAddress="00000000"/>
-      <Color>008080</Color>
-      <GroupHeader>1</GroupHeader>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>1337024792</ID>
-      <Description>"I also highly recommend that you use the Disable Auto-save at all times"</Description>
-      <LastState Value="" RealAddress="00000000"/>
-      <Color>008080</Color>
-      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1337024793</ID>
+          <Description>"Then proceed using the table for further use on that character"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <Color>008080</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1337024791</ID>
+              <Description>"That way you have the lowest chance on not getting banned"</Description>
+              <LastState Value="" RealAddress="00000000"/>
+              <Color>008080</Color>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>1337024792</ID>
+                  <Description>"I also highly recommend that you use the Disable Auto-save at all times"</Description>
+                  <LastState Value="" RealAddress="00000000"/>
+                  <Color>008080</Color>
+                  <GroupHeader>1</GroupHeader>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
     </CheatEntry>
     <CheatEntry>
       <ID>1337024795</ID>
       <Description>"By signing you agree to the terms and conditions"</Description>
+      <Options moHideChildren="1"/>
       <LastState Value="" RealAddress="00000000"/>
       <Color>800000</Color>
       <GroupHeader>1</GroupHeader>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>1337024796</ID>
-      <Description>"That you will become an Ogre and swear your loyalty the Ogrelord"</Description>
-      <LastState Value="" RealAddress="00000000"/>
-      <Color>800000</Color>
-      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1337024796</ID>
+          <Description>"You will become an Ogre and swear your loyalty the Ogrelord"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <Color>800000</Color>
+          <GroupHeader>1</GroupHeader>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1337024992</ID>
+          <Description>"The Ogrelord will have no responsibility for any damages caused by this table"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <Color>800000</Color>
+          <GroupHeader>1</GroupHeader>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1337024993</ID>
+          <Description>"The Ogrelord will not be responsible for any of your actions"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <Color>800000</Color>
+          <GroupHeader>1</GroupHeader>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1337024994</ID>
+          <Description>"If you get banned you will not come crying at the Ogrelord's door"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <Color>800000</Color>
+          <GroupHeader>1</GroupHeader>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1337024995</ID>
+          <Description>"You will make at least one kid salty per playsession"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <Color>800000</Color>
+          <GroupHeader>1</GroupHeader>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1337024996</ID>
+          <Description>"You will share this table with your friends if you like the table"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <Color>800000</Color>
+          <GroupHeader>1</GroupHeader>
+        </CheatEntry>
+      </CheatEntries>
     </CheatEntry>
     <CheatEntry>
       <ID>1337024700</ID>
@@ -261,7 +298,7 @@ end
               <ID>89263</ID>
               <Description>"💥 Ogre Magic 💥"</Description>
               <Options moHideChildren="1"/>
-              <LastState/>
+              <LastState Activated="1"/>
               <Color>0000FF</Color>
               <VariableType>Auto Assembler Script</VariableType>
               <AssemblerScript>[ENABLE]
@@ -10673,6 +10710,10 @@ This will protect you from A crash bullet (which you also have!) and EarRape}
     <SymbolEntry>
       <Name>hasvalue</Name>
       <Address> 140860491</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>ParamPatchAOB</Name>
+      <Address> 1404EA050</Address>
     </SymbolEntry>
   </UserdefinedSymbols>
   <Structures StructVersion="2">
