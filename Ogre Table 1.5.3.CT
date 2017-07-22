@@ -6054,7 +6054,7 @@ dealloc(newmem)
                           <ID>102390</ID>
                           <Description>"☄ Instructions for Reverse Casting ☄"</Description>
                           <Options moHideChildren="1" moRecursiveSetValue="1"/>
-                          <LastState Activated="1" RealAddress="7FF5B616EED0"/>
+                          <LastState Activated="1" RealAddress="7FF5B6D3BA30"/>
                           <ShowAsSigned>1</ShowAsSigned>
                           <VariableType>String</VariableType>
                           <Length>0</Length>
@@ -7090,15 +7090,15 @@ local HeavyCrossbow = {
 }
 
 local ShitTierSlayer = {
-  {830,0x08,"00 00 80 BF"}, --HitID 0
-  {830,0x10,"00 00 A0 40"}, --Life 5
-  {830,0x58,"AC C5 27 37"}, --dmgHitRecordLifeTime
-  {830,0x6C,"A8 0C 00 00"}, --Chinese Earthquake
-  {830,0x70,"98 54 2B 06"}, --SS
-  {830,0x74,"F4 AA 15 00"}, --WOTG
-  {830,0x78,"E0 2E 00 00"}, --TWOP
-  {830,0x7C,"56 31 00 00"}, --Breaking shit
-  {830,0x80,"00 C0 79 44"}, --numShoot
+  {830,0x08,"00 00 80 BF"},
+  {830,0x10,"00 00 A0 40"},
+  {830,0x58,"AC C5 27 37"},
+  {830,0x6C,"A8 0C 00 00"},
+  {830,0x70,"98 54 2B 06"},
+  {830,0x74,"F4 AA 15 00"},
+  {830,0x78,"E0 2E 00 00"},
+  {830,0x7C,"56 31 00 00"},
+  {830,0x80,"00 C0 79 44"},
 }
 
 ParamIterator("EquipParamWeapon",HeavyCrossbow,"HeavyCrossbowOriginal")
@@ -7868,7 +7868,7 @@ end
             <CheatEntry>
               <ID>86081</ID>
               <Description>"∞ Infinite items ∞ (set value to 1 to activate)"</Description>
-              <LastState Value="0" RealAddress="7FF5B3A3615A"/>
+              <LastState Value="0" RealAddress="7FF5B145E5FA"/>
               <ShowAsHex>1</ShowAsHex>
               <Color>FF0000</Color>
               <VariableType>Binary</VariableType>
@@ -7884,7 +7884,7 @@ end
             <CheatEntry>
               <ID>1337012301</ID>
               <Description>"⛧ It's never Ogre ⛧"</Description>
-              <LastState Activated="1"/>
+              <LastState/>
               <Color>800000</Color>
               <VariableType>Auto Assembler Script</VariableType>
               <AssemblerScript>{Script by a Reverse Souls Contributor (Name forgotten)
@@ -9433,7 +9433,7 @@ unregistersymbol(canmove1)
               <ID>1337024735</ID>
               <Description>"👁 The Eye of the Ogre 👁"</Description>
               <Options moHideChildren="1"/>
-              <LastState Value="" RealAddress="00000000"/>
+              <LastState Value="" Activated="1" RealAddress="00000000"/>
               <Color>FF00FF</Color>
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
