@@ -8230,7 +8230,10 @@ dealloc(allocatedMemory)
               <LastState/>
               <Color>B0C774</Color>
               <VariableType>Auto Assembler Script</VariableType>
-              <AssemblerScript>[ENABLE]
+              <AssemblerScript>{Cript made by Sciene Souls contributers
+Allows you to drop items to swap them for something new}
+
+[ENABLE]
 aobscanmodule(pickup,DarkSoulsIII.exe,8B 4B 20 41 89 0E)
 alloc(newmem,$1000,pickup)
 
@@ -9608,7 +9611,11 @@ dealloc(newmem)
               <LastState/>
               <Color>FF8080</Color>
               <VariableType>Auto Assembler Script</VariableType>
-              <AssemblerScript>[ENABLE]
+              <AssemblerScript>{Script by Science Souls contributers
+Cancels animations to mess with other players
+See for yourself what you can do with it}
+
+[ENABLE]
 //code from here to '[DISABLE]' will be used to enable the cheat
 aobscanmodule(canmove1, DarkSoulsIII.exe, E9 ?? ?? ?? ?? 48 ?? ?? 58 00 80 00 00 E9)
 alloc(newmem, 128, canmove1)
@@ -9640,11 +9647,12 @@ unregistersymbol(canmove1)
             </CheatEntry>
             <CheatEntry>
               <ID>1337012286</ID>
-              <Description>"🎖 Teleport to Host 🎖"</Description>
+              <Description>"🎖 Teleport to Host/Player 1 🎖"</Description>
               <LastState/>
               <Color>C080FF</Color>
               <VariableType>Auto Assembler Script</VariableType>
-              <AssemblerScript>{Teleports you to Player 1 in a multiplayer session}
+              <AssemblerScript>{Script by Science Souls contributers
+Teleports you to the host or Player 1 in a multiplayer session}
 
 
 [ENABLE]
@@ -9689,7 +9697,10 @@ readmem([[[[[BaseB]+40]+38]+18]+28]+88,4)
                   <LastState/>
                   <Color>CECE00</Color>
                   <VariableType>Auto Assembler Script</VariableType>
-                  <AssemblerScript>[ENABLE]
+                  <AssemblerScript>{Script by Science Souls contributers
+Allows you to spectate Player 1}
+
+[ENABLE]
 aobscanmodule(camrttn,DarkSoulsIII.exe,0F 29 86 E0 00 00 00 F3)
 registersymbol(camrttn)
 
@@ -9722,7 +9733,11 @@ unregistersymbol(camrttn)
                   <LastState/>
                   <Color>CECE00</Color>
                   <VariableType>Auto Assembler Script</VariableType>
-                  <AssemblerScript>[ENABLE]
+                  <AssemblerScript>{Script by Science Souls contributers
+Allows you to spectate Player 2}
+
+
+[ENABLE]
 aobscanmodule(camrttn,DarkSoulsIII.exe,0F 29 86 E0 00 00 00 F3)
 registersymbol(camrttn)
 
@@ -9755,7 +9770,11 @@ unregistersymbol(camrttn)
                   <LastState/>
                   <Color>CECE00</Color>
                   <VariableType>Auto Assembler Script</VariableType>
-                  <AssemblerScript>[ENABLE]
+                  <AssemblerScript>{Script by Science Souls contributers
+Allows you to spectate Player 3}
+
+
+[ENABLE]
 aobscanmodule(camrttn,DarkSoulsIII.exe,0F 29 86 E0 00 00 00 F3)
 registersymbol(camrttn)
 
@@ -9788,7 +9807,11 @@ unregistersymbol(camrttn)
                   <LastState/>
                   <Color>CECE00</Color>
                   <VariableType>Auto Assembler Script</VariableType>
-                  <AssemblerScript>[ENABLE]
+                  <AssemblerScript>{Script by Science Souls contributers
+Allows you to spectate Player 4}
+
+
+[ENABLE]
 aobscanmodule(camrttn,DarkSoulsIII.exe,0F 29 86 E0 00 00 00 F3)
 registersymbol(camrttn)
 
@@ -9821,7 +9844,11 @@ unregistersymbol(camrttn)
                   <LastState/>
                   <Color>CECE00</Color>
                   <VariableType>Auto Assembler Script</VariableType>
-                  <AssemblerScript>[ENABLE]
+                  <AssemblerScript>{Script by Science Souls contributers
+Allows you to spectate Player 5}
+
+
+[ENABLE]
 aobscanmodule(camrttn,DarkSoulsIII.exe,0F 29 86 E0 00 00 00 F3)
 registersymbol(camrttn)
 
@@ -9928,7 +9955,7 @@ dealloc(newmem)
             <CheatEntry>
               <ID>1337024727</ID>
               <Description>"⚠️ Instructions for Reverse Casting ⚠️"</Description>
-              <LastState/>
+              <LastState Activated="1"/>
               <VariableType>Auto Assembler Script</VariableType>
               <AssemblerScript>{Press = when you are about to fire the bullet
 Press - to stop casting
