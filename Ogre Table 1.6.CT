@@ -28,20 +28,6 @@
       <GroupHeader>1</GroupHeader>
     </CheatEntry>
     <CheatEntry>
-      <ID>1337024732</ID>
-      <Description>"YOU USE THIS TABLE AT YOUR OWN RISK"</Description>
-      <LastState Value="" RealAddress="00000000"/>
-      <Color>0000FF</Color>
-      <GroupHeader>1</GroupHeader>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>1337024733</ID>
-      <Description>"IF YOU DO END UP WITH A BAN, BLAME ONLY YOURSELF"</Description>
-      <LastState Value="" RealAddress="00000000"/>
-      <Color>0000FF</Color>
-      <GroupHeader>1</GroupHeader>
-    </CheatEntry>
-    <CheatEntry>
       <ID>1337024731</ID>
       <Description>"COMPATIBLE ONLY ON CE VERSION 6.6"</Description>
       <LastState Value="" RealAddress="00000000"/>
@@ -50,7 +36,7 @@
     </CheatEntry>
     <CheatEntry>
       <ID>1337024790</ID>
-      <Description>"I HIGHLY recommend opening this table on a new char in the creator"</Description>
+      <Description>"I HIGHLY recommend opening this table on a new character in the creator"</Description>
       <LastState Value="" RealAddress="00000000"/>
       <Color>008080</Color>
       <GroupHeader>1</GroupHeader>
@@ -132,6 +118,20 @@
           <Color>800000</Color>
           <GroupHeader>1</GroupHeader>
         </CheatEntry>
+        <CheatEntry>
+          <ID>1337025197</ID>
+          <Description>"By opening this table you will transform into an Ogre"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <Color>800000</Color>
+          <GroupHeader>1</GroupHeader>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1337024732</ID>
+          <Description>"YOU USE THIS TABLE AT YOUR OWN RISK"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <Color>0000FF</Color>
+          <GroupHeader>1</GroupHeader>
+        </CheatEntry>
       </CheatEntries>
     </CheatEntry>
     <CheatEntry>
@@ -141,9 +141,12 @@
       <LastState/>
       <Color>009F00</Color>
       <VariableType>Auto Assembler Script</VariableType>
-      <AssemblerScript>[ENABLE]
-{$lua}
+      <AssemblerScript>{Base scanners by Science Souls contributers
+This script is the base of the table}
 
+
+[ENABLE]
+{$lua}
 
 autoAssemble([[
 aobscanmodule(Findit,DarkSoulsIII.exe,48 8B 05 ?? ?? ?? ?? 48 85 C0 ?? ?? 48 8b 40 ?? C3)
@@ -247,8 +250,6 @@ unregisterSymbol("LockBonus_ptr")
 registerSymbol("LockBonus_ptr", addr, true)
 
 CheatTable = getAddressList()
-
-
 
 [DISABLE]
 {$asm}
@@ -6081,7 +6082,7 @@ dealloc(newmem)
                           <ID>102390</ID>
                           <Description>"☄ Instructions for Reverse Casting ☄"</Description>
                           <Options moHideChildren="1" moRecursiveSetValue="1"/>
-                          <LastState Activated="1" RealAddress="00000000"/>
+                          <LastState RealAddress="00000000"/>
                           <ShowAsSigned>1</ShowAsSigned>
                           <VariableType>String</VariableType>
                           <Length>0</Length>
@@ -8054,16 +8055,6 @@ end
               <Offsets>
                 <Offset>B10</Offset>
               </Offsets>
-              <Hotkeys>
-                <Hotkey>
-                  <Action>Set Value</Action>
-                  <Keys>
-                    <Key>13</Key>
-                  </Keys>
-                  <Value>0</Value>
-                  <ID>0</ID>
-                </Hotkey>
-              </Hotkeys>
             </CheatEntry>
             <CheatEntry>
               <ID>86081</ID>
@@ -9955,7 +9946,8 @@ dealloc(newmem)
             <CheatEntry>
               <ID>1337024727</ID>
               <Description>"⚠️ Instructions for Reverse Casting ⚠️"</Description>
-              <LastState Activated="1"/>
+              <LastState/>
+              <Color>0000FF</Color>
               <VariableType>Auto Assembler Script</VariableType>
               <AssemblerScript>{Press = when you are about to fire the bullet
 Press - to stop casting
@@ -11052,16 +11044,16 @@ This will protect you from A crash bullet (which you also have!) and EarRape}
       <Address>00670000</Address>
     </SymbolEntry>
     <SymbolEntry>
-      <Name>hasvalue</Name>
-      <Address>140860491</Address>
-    </SymbolEntry>
-    <SymbolEntry>
       <Name>pickup</Name>
       <Address>1407BA0A8</Address>
     </SymbolEntry>
     <SymbolEntry>
       <Name>pickup_ptr</Name>
       <Address>13FFE0021</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>hasvalue</Name>
+      <Address>140860491</Address>
     </SymbolEntry>
     <SymbolEntry>
       <Name>ParamPatchAOB</Name>
