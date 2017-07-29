@@ -21,6 +21,13 @@
       <GroupHeader>1</GroupHeader>
     </CheatEntry>
     <CheatEntry>
+      <ID>1337025199</ID>
+      <Description>"For questions and suggestions, please join my Discord https://discord.gg/gP2Zdy9"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <Color>800080</Color>
+      <GroupHeader>1</GroupHeader>
+    </CheatEntry>
+    <CheatEntry>
       <ID>1337024734</ID>
       <Description>"TABLE VERSION 1.6.3"</Description>
       <LastState Value="" RealAddress="00000000"/>
@@ -6083,7 +6090,7 @@ dealloc(newmem)
                           <ID>102390</ID>
                           <Description>"☄ Instructions for Reverse Casting ☄"</Description>
                           <Options moHideChildren="1" moRecursiveSetValue="1"/>
-                          <LastState Activated="1" RealAddress="00000000"/>
+                          <LastState RealAddress="00000000"/>
                           <ShowAsSigned>1</ShowAsSigned>
                           <VariableType>String</VariableType>
                           <Length>0</Length>
