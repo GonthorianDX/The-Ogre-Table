@@ -314,7 +314,7 @@ end
               <ID>89263</ID>
               <Description>"💥 Ogre Magic 💥"</Description>
               <Options moHideChildren="1"/>
-              <LastState Activated="1"/>
+              <LastState/>
               <Color>0000FF</Color>
               <VariableType>Auto Assembler Script</VariableType>
               <AssemblerScript>[ENABLE]
@@ -570,7 +570,6 @@ Begone
                             <CheatEntry>
                               <ID>73334</ID>
                               <Description>"Blue"</Description>
-                              <LastState Value="100" Activated="1" RealAddress="7FF5A08B1D0E"/>
                               <VariableType>Byte</VariableType>
                               <Address>BaseA</Address>
                               <Offsets>
@@ -598,7 +597,6 @@ Begone
                             <CheatEntry>
                               <ID>73341</ID>
                               <Description>"Cheek Color"</Description>
-                              <LastState Value="150" Activated="1" RealAddress="7FF5A08B1D95"/>
                               <VariableType>Byte</VariableType>
                               <Address>BaseA</Address>
                               <Offsets>
@@ -626,7 +624,6 @@ Begone
                             <CheatEntry>
                               <ID>73353</ID>
                               <Description>"Green"</Description>
-                              <LastState Value="135" Activated="1" RealAddress="7FF5A08B1D0D"/>
                               <VariableType>Byte</VariableType>
                               <Address>BaseA</Address>
                               <Offsets>
@@ -654,7 +651,6 @@ Begone
                             <CheatEntry>
                               <ID>73342</ID>
                               <Description>"Laugh Lines"</Description>
-                              <LastState Value="150" Activated="1" RealAddress="7FF5A08B1DAB"/>
                               <VariableType>Byte</VariableType>
                               <Address>BaseA</Address>
                               <Offsets>
@@ -682,7 +678,6 @@ Begone
                             <CheatEntry>
                               <ID>73340</ID>
                               <Description>"Nose Bridge Color"</Description>
-                              <LastState Value="200" Activated="1" RealAddress="7FF5A08B1DAD"/>
                               <VariableType>Byte</VariableType>
                               <Address>BaseA</Address>
                               <Offsets>
@@ -710,7 +705,6 @@ Begone
                             <CheatEntry>
                               <ID>73333</ID>
                               <Description>"Red"</Description>
-                              <LastState Value="130" Activated="1" RealAddress="7FF5A08B1D0C"/>
                               <VariableType>Byte</VariableType>
                               <Address>BaseA</Address>
                               <Offsets>
@@ -738,7 +732,6 @@ Begone
                             <CheatEntry>
                               <ID>73336</ID>
                               <Description>"Skin Color Layer 1"</Description>
-                              <LastState Value="255" Activated="1" RealAddress="7FF5A08B1DB0"/>
                               <VariableType>Byte</VariableType>
                               <Address>BaseA</Address>
                               <Offsets>
@@ -766,7 +759,6 @@ Begone
                             <CheatEntry>
                               <ID>73337</ID>
                               <Description>"Skin Color Layer 2"</Description>
-                              <LastState Value="80" Activated="1" RealAddress="7FF5A08B1DB1"/>
                               <VariableType>Byte</VariableType>
                               <Address>BaseA</Address>
                               <Offsets>
@@ -794,7 +786,6 @@ Begone
                             <CheatEntry>
                               <ID>73338</ID>
                               <Description>"Skin Color Layer 3"</Description>
-                              <LastState Value="255" Activated="1" RealAddress="7FF5A08B1DB2"/>
                               <VariableType>Byte</VariableType>
                               <Address>BaseA</Address>
                               <Offsets>
@@ -822,7 +813,6 @@ Begone
                             <CheatEntry>
                               <ID>73339</ID>
                               <Description>"Skin Color Layer 4"</Description>
-                              <LastState Value="0" Activated="1" RealAddress="7FF5A08B1DAE"/>
                               <VariableType>Byte</VariableType>
                               <Address>BaseA</Address>
                               <Offsets>
@@ -850,7 +840,6 @@ Begone
                             <CheatEntry>
                               <ID>73335</ID>
                               <Description>"Skin Tone"</Description>
-                              <LastState Value="180" Activated="1" RealAddress="7FF5A08B1DAF"/>
                               <VariableType>Byte</VariableType>
                               <Address>BaseA</Address>
                               <Offsets>
@@ -887,7 +876,6 @@ Begone
                             <CheatEntry>
                               <ID>73294</ID>
                               <Description>"Abdomen"</Description>
-                              <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D36"/>
                               <Color>000000</Color>
                               <VariableType>Byte</VariableType>
                               <Address>BaseA</Address>
@@ -916,7 +904,6 @@ Begone
                             <CheatEntry>
                               <ID>73295</ID>
                               <Description>"Arm 1"</Description>
-                              <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D37"/>
                               <Color>000000</Color>
                               <VariableType>Byte</VariableType>
                               <Address>BaseA</Address>
@@ -945,7 +932,6 @@ Begone
                             <CheatEntry>
                               <ID>73296</ID>
                               <Description>"Arm 2"</Description>
-                              <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D39"/>
                               <Color>000000</Color>
                               <VariableType>Byte</VariableType>
                               <Address>BaseA</Address>
@@ -974,7 +960,6 @@ Begone
                             <CheatEntry>
                               <ID>73293</ID>
                               <Description>"Chest"</Description>
-                              <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D35"/>
                               <Color>000000</Color>
                               <VariableType>Byte</VariableType>
                               <Address>BaseA</Address>
@@ -1003,7 +988,6 @@ Begone
                             <CheatEntry>
                               <ID>73292</ID>
                               <Description>"Head"</Description>
-                              <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D34"/>
                               <Color>000000</Color>
                               <VariableType>Byte</VariableType>
                               <Address>BaseA</Address>
@@ -1032,7 +1016,6 @@ Begone
                             <CheatEntry>
                               <ID>73297</ID>
                               <Description>"Leg 1"</Description>
-                              <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D38"/>
                               <Color>000000</Color>
                               <VariableType>Byte</VariableType>
                               <Address>BaseA</Address>
@@ -1061,7 +1044,6 @@ Begone
                             <CheatEntry>
                               <ID>73298</ID>
                               <Description>"Leg 2"</Description>
-                              <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D3A"/>
                               <Color>000000</Color>
                               <VariableType>Byte</VariableType>
                               <Address>BaseA</Address>
@@ -1107,7 +1089,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73281</ID>
                                   <Description>"Eye Shadow"</Description>
-                                  <LastState Value="190" Activated="1" RealAddress="7FF5A08B1DA4"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -1136,7 +1117,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73277</ID>
                                   <Description>"Eye Socket"</Description>
-                                  <LastState Value="140" Activated="1" RealAddress="7FF5A08B1D97"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -1165,7 +1145,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73278</ID>
                                   <Description>"Eyelid Brightness"</Description>
-                                  <LastState Value="100" Activated="1" RealAddress="7FF5A08B1DA1"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -1194,7 +1173,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73279</ID>
                                   <Description>"Eyelid Color"</Description>
-                                  <LastState Value="160" Activated="1" RealAddress="7FF5A08B1DA2"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -1223,7 +1201,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73280</ID>
                                   <Description>"Eyeliner"</Description>
-                                  <LastState Value="140" Activated="1" RealAddress="7FF5A08B1DA3"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -1252,7 +1229,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73282</ID>
                                   <Description>"Lipstick 1"</Description>
-                                  <LastState Value="100" Activated="1" RealAddress="7FF5A08B1DA9"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -1281,7 +1257,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73283</ID>
                                   <Description>"Lipstick 2"</Description>
-                                  <LastState Value="100" Activated="1" RealAddress="7FF5A08B1DAA"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -1310,7 +1285,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73276</ID>
                                   <Description>"Tone Around Eyes"</Description>
-                                  <LastState Value="140" Activated="1" RealAddress="7FF5A08B1D96"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -1357,7 +1331,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73321</ID>
                                       <Description>"Brow Ridge Height"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D52"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -1386,7 +1359,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73322</ID>
                                       <Description>"Inner Brow Ridge"</Description>
-                                      <LastState Value="150" Activated="1" RealAddress="7FF5A08B1D53"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -1415,7 +1387,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73323</ID>
                                       <Description>"Outer Brow Ridge"</Description>
-                                      <LastState Value="200" Activated="1" RealAddress="7FF5A08B1D54"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -1454,7 +1425,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73200</ID>
                                       <Description>"Checkbonde Width"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D57"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -1483,7 +1453,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73201</ID>
                                       <Description>"Cheekbone"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D58"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -1512,7 +1481,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73198</ID>
                                       <Description>"Cheekbone Height"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D55"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -1541,7 +1509,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73202</ID>
                                       <Description>"Cheeks"</Description>
-                                      <LastState Value="175" Activated="1" RealAddress="7FF5A08B1D59"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -1570,7 +1537,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73199</ID>
                                       <Description>"Chekbone Depth"</Description>
-                                      <LastState Value="150" Activated="1" RealAddress="7FF5A08B1D56"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -1609,7 +1575,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73221</ID>
                                       <Description>"Chin Depth"</Description>
-                                      <LastState Value="75" Activated="1" RealAddress="7FF5A08B1D5D"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -1638,7 +1603,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73223</ID>
                                       <Description>"Chin Height"</Description>
-                                      <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D5F"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -1667,7 +1631,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73219</ID>
                                       <Description>"Chin Length"</Description>
-                                      <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D5B"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -1696,7 +1659,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73220</ID>
                                       <Description>"Chin Protrusion"</Description>
-                                      <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D5C"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -1725,7 +1687,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73222</ID>
                                       <Description>"Chin Size"</Description>
-                                      <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D5E"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -1754,7 +1715,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73218</ID>
                                       <Description>"Chin Tip Position"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D5A"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -1783,7 +1743,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73224</ID>
                                       <Description>"Chin Width"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D60"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -1822,7 +1781,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73183</ID>
                                       <Description>"Eye Position"</Description>
-                                      <LastState Value="200" Activated="1" RealAddress="7FF5A08B1D61"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -1851,7 +1809,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73180</ID>
                                       <Description>"Eye Size"</Description>
-                                      <LastState Value="100" Activated="1" RealAddress="7FF5A08B1D62"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -1880,7 +1837,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73181</ID>
                                       <Description>"Eye Slant"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D63"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -1909,7 +1865,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73182</ID>
                                       <Description>"Eye Spacing"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D64"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -1947,7 +1902,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73312</ID>
                                       <Description>"Face Protrusion"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D68"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -1976,7 +1930,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73314</ID>
                                       <Description>"Facial Feature Slant"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D6A"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2005,7 +1958,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73315</ID>
                                       <Description>"Horiz. Facial"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D6B"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2034,7 +1986,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73310</ID>
                                       <Description>"Nose Size"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D65"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2063,7 +2014,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73311</ID>
                                       <Description>"Nose/Forehead Ratio"</Description>
-                                      <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D66"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2092,7 +2042,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73313</ID>
                                       <Description>"Vert.Facial Spacing"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D69"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2131,7 +2080,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73176</ID>
                                       <Description>"Bridge Protrusion 1"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D89"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2160,7 +2108,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73177</ID>
                                       <Description>"Bridge Protrusion 2"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D8A"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2189,7 +2136,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73173</ID>
                                       <Description>"Forehead Depth"</Description>
-                                      <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D6D"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2218,7 +2164,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73174</ID>
                                       <Description>"Forehead Protrusion"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D6E"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2247,7 +2192,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73175</ID>
                                       <Description>"Nose Bridge Height"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D88"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2276,7 +2220,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73178</ID>
                                       <Description>"Nose Bridge Width"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D8B"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2315,7 +2258,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73229</ID>
                                       <Description>"Jaw Contour"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D73"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2344,7 +2286,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73226</ID>
                                       <Description>"Jaw Position"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D70"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2373,7 +2314,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73227</ID>
                                       <Description>"Jaw Width"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D71"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2402,7 +2342,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73228</ID>
                                       <Description>"Lower Jaw"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D72"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2441,7 +2380,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73206</ID>
                                       <Description>"Lip Fullness"</Description>
-                                      <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D76"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2470,7 +2408,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73208</ID>
                                       <Description>"Lip Protrusion"</Description>
-                                      <LastState Value="100" Activated="1" RealAddress="7FF5A08B1D78"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2499,7 +2436,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73204</ID>
                                       <Description>"Lip Shape"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D74"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2528,7 +2464,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73207</ID>
                                       <Description>"Lip Size"</Description>
-                                      <LastState Value="125" Activated="1" RealAddress="7FF5A08B1D77"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2557,7 +2492,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73205</ID>
                                       <Description>"Mouth Expression"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D75"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2596,7 +2530,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73214</ID>
                                       <Description>"Mouth Position"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D7D"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2625,7 +2558,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73211</ID>
                                       <Description>"Mouth Protrusion"</Description>
-                                      <LastState Value="150" Activated="1" RealAddress="7FF5A08B1D7A"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2654,7 +2586,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73212</ID>
                                       <Description>"Mouth Slant"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D7B"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2683,7 +2614,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73215</ID>
                                       <Description>"Mouth Width"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D7E"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2712,7 +2642,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73216</ID>
                                       <Description>"Mouth-Chin Distance"</Description>
-                                      <LastState Value="200" Activated="1" RealAddress="7FF5A08B1D7F"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2741,7 +2670,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73213</ID>
                                       <Description>"Occlusion"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D7C"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2780,7 +2708,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73190</ID>
                                       <Description>"Nose Height"</Description>
-                                      <LastState Value="100" Activated="1" RealAddress="7FF5A08B1D8C"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2809,7 +2736,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73187</ID>
                                       <Description>"Nose Position"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D82"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2838,7 +2764,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73189</ID>
                                       <Description>"Nose Protrusion"</Description>
-                                      <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D87"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2867,7 +2792,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73185</ID>
                                       <Description>"Nose Ridge Depth"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D80"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2896,7 +2820,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73186</ID>
                                       <Description>"Nose Ridge Lenght"</Description>
-                                      <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D81"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2925,7 +2848,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73191</ID>
                                       <Description>"Nose Slant"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D8D"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2954,7 +2876,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73188</ID>
                                       <Description>"Nose Tip Height"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D83"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -2993,7 +2914,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73196</ID>
                                       <Description>"Nasal Size"</Description>
-                                      <LastState Value="150" Activated="1" RealAddress="7FF5A08B1DAC"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -3022,7 +2942,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73194</ID>
                                       <Description>"Nostril Size"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D85"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -3051,7 +2970,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73193</ID>
                                       <Description>"Nostril Slant"</Description>
-                                      <LastState Value="125" Activated="1" RealAddress="7FF5A08B1D84"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -3080,7 +2998,6 @@ Begone
                                     <CheatEntry>
                                       <ID>73195</ID>
                                       <Description>"Nostril Width"</Description>
-                                      <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D86"/>
                                       <Color>000000</Color>
                                       <VariableType>Byte</VariableType>
                                       <Address>BaseA</Address>
@@ -3121,7 +3038,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73305</ID>
                                   <Description>"Apparent Age"</Description>
-                                  <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D4E"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -3150,7 +3066,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73307</ID>
                                   <Description>"Facial Aesthetic"</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D4F"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -3179,7 +3094,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73306</ID>
                                   <Description>"Form Emphasis"</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D50"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -3218,7 +3132,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73255</ID>
                                   <Description>"Beard Blue"</Description>
-                                  <LastState Value="50" Activated="1" RealAddress="7FF5A08B1D22"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -3247,7 +3160,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73254</ID>
                                   <Description>"Beard Green"</Description>
-                                  <LastState Value="50" Activated="1" RealAddress="7FF5A08B1D21"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -3276,7 +3188,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73253</ID>
                                   <Description>"Beard Red"</Description>
-                                  <LastState Value="50" Activated="1" RealAddress="7FF5A08B1D20"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -3305,7 +3216,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73252</ID>
                                   <Description>"Beard Style"</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1CFC"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -3334,7 +3244,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73251</ID>
                                   <Description>"Brow Blue"</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D1E"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -3363,7 +3272,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73250</ID>
                                   <Description>"Brow Green"</Description>
-                                  <LastState Value="10" Activated="1" RealAddress="7FF5A08B1D1D"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -3392,7 +3300,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73249</ID>
                                   <Description>"Brow Red"</Description>
-                                  <LastState Value="25" Activated="1" RealAddress="7FF5A08B1D1C"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -3421,7 +3328,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73248</ID>
                                   <Description>"Brow Style"</Description>
-                                  <LastState Value="3" Activated="1" RealAddress="7FF5A08B1CF8"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -3450,7 +3356,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73259</ID>
                                   <Description>"Eyelash Color Blue"</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D2E"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -3479,7 +3384,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73258</ID>
                                   <Description>"Eyelash Color Green"</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D2D"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -3508,7 +3412,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73257</ID>
                                   <Description>"Eyelash Color Red"</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D2C"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -3537,7 +3440,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73256</ID>
                                   <Description>"Eyelashes Type"</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D08"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -3566,7 +3468,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73247</ID>
                                   <Description>"Hair Color Blue"</Description>
-                                  <LastState Value="50" Activated="1" RealAddress="7FF5A08B1D12"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -3595,7 +3496,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73246</ID>
                                   <Description>"Hair Color Green"</Description>
-                                  <LastState Value="50" Activated="1" RealAddress="7FF5A08B1D11"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -3624,7 +3524,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73245</ID>
                                   <Description>"Hair Color Red"</Description>
-                                  <LastState Value="50" Activated="1" RealAddress="7FF5A08B1D10"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -3653,7 +3552,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73244</ID>
                                   <Description>"Hair Style"</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1CEC"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -3682,7 +3580,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73241</ID>
                                   <Description>"Hair/Brow/Beard Blue"</Description>
-                                  <LastState Value="50" Activated="1" RealAddress="7FF5A08B1D12"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -3711,7 +3608,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73242</ID>
                                   <Description>"Hair/Brow/Beard Blue"</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D1E"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -3740,7 +3636,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73243</ID>
                                   <Description>"Hair/Brow/Beard Blue"</Description>
-                                  <LastState Value="50" Activated="1" RealAddress="7FF5A08B1D22"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -3769,7 +3664,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73235</ID>
                                   <Description>"Hair/Brow/Beard Green"</Description>
-                                  <LastState Value="50" Activated="1" RealAddress="7FF5A08B1D11"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -3798,7 +3692,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73236</ID>
                                   <Description>"Hair/Brow/Beard Green"</Description>
-                                  <LastState Value="10" Activated="1" RealAddress="7FF5A08B1D1D"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -3827,7 +3720,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73237</ID>
                                   <Description>"Hair/Brow/Beard Green"</Description>
-                                  <LastState Value="50" Activated="1" RealAddress="7FF5A08B1D21"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -3856,7 +3748,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73233</ID>
                                   <Description>"Hair/Brow/Beard Red"</Description>
-                                  <LastState Value="50" Activated="1" RealAddress="7FF5A08B1D10"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -3885,7 +3776,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73234</ID>
                                   <Description>"Hair/Brow/Beard Red"</Description>
-                                  <LastState Value="25" Activated="1" RealAddress="7FF5A08B1D1C"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -3914,7 +3804,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73238</ID>
                                   <Description>"Hair/Brow/Beard Red"</Description>
-                                  <LastState Value="50" Activated="1" RealAddress="7FF5A08B1D20"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -3953,7 +3842,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73266</ID>
                                   <Description>"Color of Pupils Blue"</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D16"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -3982,7 +3870,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73267</ID>
                                   <Description>"Color of Pupils Blue"</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D1A"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -4011,7 +3898,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73264</ID>
                                   <Description>"Color of Pupils Green"</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D15"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -4040,7 +3926,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73265</ID>
                                   <Description>"Color of Pupils Green"</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D19"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -4069,7 +3954,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73262</ID>
                                   <Description>"Color of Pupils Red"</Description>
-                                  <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D14"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -4098,7 +3982,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73263</ID>
                                   <Description>"Color of Pupils Red"</Description>
-                                  <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D18"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -4127,7 +4010,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73272</ID>
                                   <Description>"Left Pupil"</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1CF0"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -4156,7 +4038,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73275</ID>
                                   <Description>"Left Pupil Color Blue"</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D16"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -4185,7 +4066,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73274</ID>
                                   <Description>"Left Pupil Color Green"</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D15"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -4214,7 +4094,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73273</ID>
                                   <Description>"Left Pupil Color Red"</Description>
-                                  <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D14"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -4243,7 +4122,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73260</ID>
                                   <Description>"Pupils "</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1CF0"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -4272,7 +4150,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73261</ID>
                                   <Description>"Pupils 2"</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1CF4"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -4301,7 +4178,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73268</ID>
                                   <Description>"Right Pupil"</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1CF4"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -4330,7 +4206,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73271</ID>
                                   <Description>"Right Pupil Color Blue"</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D1A"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -4359,7 +4234,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73270</ID>
                                   <Description>"Right Pupil Color Green"</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D19"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -4388,7 +4262,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73269</ID>
                                   <Description>"Right Pupil Color Red"</Description>
-                                  <LastState Value="255" Activated="1" RealAddress="7FF5A08B1D18"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -4427,7 +4300,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73290</ID>
                                   <Description>"Angle"</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D32"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -4456,7 +4328,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73291</ID>
                                   <Description>"Expansion"</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D33"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -4485,7 +4356,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73289</ID>
                                   <Description>"Position (Horizontal)"</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D30"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -4514,7 +4384,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73288</ID>
                                   <Description>"Position Vertical"</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D31"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -4543,7 +4412,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73284</ID>
                                   <Description>"Tatoo/Mark"</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D04"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -4572,7 +4440,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73287</ID>
                                   <Description>"Tattoo/Mark Color Blue"</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D2A"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -4601,7 +4468,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73286</ID>
                                   <Description>"Tattoo/Mark Color Green"</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D29"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -4630,7 +4496,6 @@ Begone
                                 <CheatEntry>
                                   <ID>73285</ID>
                                   <Description>"Tattoo/Mark Color Red"</Description>
-                                  <LastState Value="0" Activated="1" RealAddress="7FF5A08B1D28"/>
                                   <Color>000000</Color>
                                   <VariableType>Byte</VariableType>
                                   <Address>BaseA</Address>
@@ -4684,7 +4549,6 @@ Begone
 
 													
 </DropDownList>
-                              <LastState Value="0" RealAddress="7FF5A08B16DE"/>
                               <Color>000000</Color>
                               <VariableType>Byte</VariableType>
                               <Address>BaseA</Address>
@@ -4704,7 +4568,6 @@ Begone
 
 													
 </DropDownList>
-                              <LastState Value="101" Activated="1" RealAddress="7FF5A08B1CE8"/>
                               <VariableType>Byte</VariableType>
                               <Address>BaseA</Address>
                               <Offsets>
@@ -4739,7 +4602,6 @@ Begone
 
 													
 </DropDownList>
-                              <LastState Value="1" Activated="1" RealAddress="7FF5A08B16DA"/>
                               <Color>000000</Color>
                               <VariableType>Byte</VariableType>
                               <Address>BaseA</Address>
@@ -4775,7 +4637,6 @@ Begone
 
 													
 </DropDownList>
-                              <LastState Value="1" Activated="1" RealAddress="7FF5A08B16DB"/>
                               <VariableType>Byte</VariableType>
                               <Address>BaseA</Address>
                               <Offsets>
@@ -4924,7 +4785,6 @@ Begone
 
 									
 </DropDownList>
-                              <LastState Value="00000000" RealAddress="7FF5A08C401C"/>
                               <ShowAsHex>1</ShowAsHex>
                               <ShowAsSigned>1</ShowAsSigned>
                               <VariableType>4 Bytes</VariableType>
@@ -5050,7 +4910,6 @@ Begone
 
 									
 </DropDownList>
-                              <LastState Value="FFFFFFFF" RealAddress="7FF5A08C4040"/>
                               <ShowAsHex>1</ShowAsHex>
                               <ShowAsSigned>1</ShowAsSigned>
                               <VariableType>4 Bytes</VariableType>
@@ -5176,7 +5035,6 @@ Begone
 
 									
 </DropDownList>
-                              <LastState Value="FFFFFFFF" RealAddress="7FF5A08C4048"/>
                               <ShowAsHex>1</ShowAsHex>
                               <ShowAsSigned>1</ShowAsSigned>
                               <VariableType>4 Bytes</VariableType>
@@ -5302,7 +5160,6 @@ Begone
 
 									
 </DropDownList>
-                              <LastState Value="FFFFFFFF" RealAddress="7FF5A08C4050"/>
                               <ShowAsHex>1</ShowAsHex>
                               <ShowAsSigned>1</ShowAsSigned>
                               <VariableType>4 Bytes</VariableType>
@@ -5427,7 +5284,6 @@ Begone
 
 									
 </DropDownList>
-                              <LastState Value="00249F00" Activated="1" RealAddress="7FF5A08C4018"/>
                               <ShowAsHex>1</ShowAsHex>
                               <ShowAsSigned>0</ShowAsSigned>
                               <VariableType>4 Bytes</VariableType>
@@ -5570,7 +5426,6 @@ Begone
 
 									
 </DropDownList>
-                              <LastState Value="0024B288" Activated="1" RealAddress="7FF5A08C4020"/>
                               <ShowAsHex>1</ShowAsHex>
                               <ShowAsSigned>1</ShowAsSigned>
                               <VariableType>4 Bytes</VariableType>
@@ -5713,7 +5568,6 @@ Begone
 
 									
 </DropDownList>
-                              <LastState Value="00256250" Activated="1" RealAddress="7FF5A08C4028"/>
                               <ShowAsHex>1</ShowAsHex>
                               <ShowAsSigned>1</ShowAsSigned>
                               <VariableType>4 Bytes</VariableType>
@@ -5856,7 +5710,6 @@ Begone
 
 									
 </DropDownList>
-                              <LastState Value="0027D350" Activated="1" RealAddress="7FF5A08C4030"/>
                               <ShowAsHex>1</ShowAsHex>
                               <ShowAsSigned>1</ShowAsSigned>
                               <VariableType>4 Bytes</VariableType>
@@ -5999,7 +5852,6 @@ Begone
 
 									
 </DropDownList>
-                              <LastState Value="0024A6D0" Activated="1" RealAddress="7FF5A08C4038"/>
                               <ShowAsHex>1</ShowAsHex>
                               <ShowAsSigned>1</ShowAsSigned>
                               <VariableType>4 Bytes</VariableType>
@@ -6163,7 +6015,7 @@ writeFloat(RIGHTL_S_PTR, oldRLS)
                         <CheatEntry>
                           <ID>10465</ID>
                           <Description>"No Crossbow Reload"</Description>
-                          <LastState Activated="1"/>
+                          <LastState/>
                           <VariableType>Auto Assembler Script</VariableType>
                           <AssemblerScript>[ENABLE]
 aobscanmodule(hasvalue,DarkSoulsIII.exe,80 BC 1A DC 00 00 00 00)
@@ -6238,7 +6090,7 @@ dealloc(newmem)
                           <ID>102390</ID>
                           <Description>"☄ Instructions for Reverse Casting ☄"</Description>
                           <Options moHideChildren="1" moRecursiveSetValue="1"/>
-                          <LastState Activated="1" RealAddress="00000080"/>
+                          <LastState Activated="1" RealAddress="00000000"/>
                           <ShowAsSigned>1</ShowAsSigned>
                           <VariableType>String</VariableType>
                           <Length>0</Length>
@@ -6294,7 +6146,7 @@ dealloc(newmem)
                           <ID>3</ID>
                           <Description>"Character Debug"</Description>
                           <Options moHideChildren="1"/>
-                          <LastState Activated="1"/>
+                          <LastState/>
                           <Color>000000</Color>
                           <VariableType>Auto Assembler Script</VariableType>
                           <AssemblerScript>[ENABLE]
@@ -6357,7 +6209,6 @@ unregistersymbol(debug_flags)
                             <CheatEntry>
                               <ID>15</ID>
                               <Description>"No Arrow Consume"</Description>
-                              <LastState Value="1" Activated="1" RealAddress="144768F6C"/>
                               <VariableType>Byte</VariableType>
                               <Address>debug_flags+4</Address>
                               <Hotkeys>
@@ -6395,7 +6246,7 @@ unregistersymbol(debug_flags)
                     <CheatEntry>
                       <ID>0</ID>
                       <Description>"Fireball -&gt; 🍔 ♋ Burgerflip ♋ 🍔"</Description>
-                      <LastState Activated="1"/>
+                      <LastState/>
                       <Color>FF0000</Color>
                       <VariableType>Auto Assembler Script</VariableType>
                       <AssemblerScript>{Script By GonthorianDX
@@ -6458,7 +6309,7 @@ end
                     <CheatEntry>
                       <ID>1</ID>
                       <Description>"Fire Orb -&gt;  💣 Headache Fog Warmth 💣"</Description>
-                      <LastState Activated="1"/>
+                      <LastState/>
                       <Color>FF0000</Color>
                       <VariableType>Auto Assembler Script</VariableType>
                       <AssemblerScript>{Script By GonthorianDX
@@ -6526,7 +6377,7 @@ end
                     <CheatEntry>
                       <ID>89265</ID>
                       <Description>"Fire Surge -&gt; 💨 Leafblower 💨"</Description>
-                      <LastState Activated="1"/>
+                      <LastState/>
                       <Color>FF0000</Color>
                       <VariableType>Auto Assembler Script</VariableType>
                       <AssemblerScript>{Script By GonthorianDX
@@ -6582,7 +6433,7 @@ end
                     <CheatEntry>
                       <ID>89267</ID>
                       <Description>"Great Chaos Fire Orb -&gt; ⚠ Crash Bullet ⚠"</Description>
-                      <LastState Activated="1"/>
+                      <LastState/>
                       <Color>FF0000</Color>
                       <VariableType>Auto Assembler Script</VariableType>
                       <AssemblerScript>{Script by GonthorianDX
@@ -6633,7 +6484,7 @@ end
                     <CheatEntry>
                       <ID>1337024703</ID>
                       <Description>"Black Fire Orb -&gt; 🔊 Ear Rape 🔊"</Description>
-                      <LastState Activated="1"/>
+                      <LastState/>
                       <Color>FF0000</Color>
                       <VariableType>Auto Assembler Script</VariableType>
                       <AssemblerScript>{Script by GonthorianDX
@@ -6676,7 +6527,7 @@ end
                     <CheatEntry>
                       <ID>1337024692</ID>
                       <Description>"Dung Pie -&gt; 💀 Area Curse 💀"</Description>
-                      <LastState Activated="1"/>
+                      <LastState/>
                       <Color>FF0000</Color>
                       <VariableType>Auto Assembler Script</VariableType>
                       <AssemblerScript>{Script By GonthorianDX
@@ -7464,6 +7315,7 @@ end
                       <VariableType>Auto Assembler Script</VariableType>
                       <AssemblerScript>{Script by GonthorianDX, help from inuNorii
 The Heavy Cross becomes a shit tier slayer
+This Crossbow uses Wood and Splintering bolts for ammo
 Use this crossbow against script kiddies
 Do NOT use this tool against your fellow Ogres!}
 
@@ -7480,7 +7332,7 @@ local HeavyCrossbow = {
 
 local HackerSlayer = {
   {830,0x08,"00 00 80 BF"},
-  {830,0x10,"00 00 00 40"},
+  {830,0x10,"00 00 80 3F"},
   {830,0x58,"AC C5 27 37"},
   {830,0x6C,"A8 0C 00 00"},
   {830,0x70,"98 54 2B 06"},
@@ -7488,6 +7340,15 @@ local HackerSlayer = {
   {830,0x78,"E0 2E 00 00"},
   {830,0x7C,"56 31 00 00"},
   {830,0x80,"00 C0 79 44"},
+  {850,0x08,"00 00 80 BF"},
+  {850,0x10,"00 00 80 3F"},
+  {850,0x58,"AC C5 27 37"},
+  {850,0x6C,"A8 0C 00 00"},
+  {850,0x70,"98 54 2B 06"},
+  {850,0x74,"F4 AA 15 00"},
+  {850,0x78,"E0 2E 00 00"},
+  {850,0x7C,"56 31 00 00"},
+  {850,0x80,"00 C0 79 44"},
 }
 
 ParamIterator("EquipParamWeapon",HeavyCrossbow,"HeavyCrossbowOriginal")
@@ -7882,7 +7743,7 @@ end
                     <CheatEntry>
                       <ID>89264</ID>
                       <Description>"🚫 Crash Protection 🚫"</Description>
-                      <LastState Activated="1"/>
+                      <LastState/>
                       <Color>B3B300</Color>
                       <VariableType>Auto Assembler Script</VariableType>
                       <AssemblerScript>{Script By GonthorianDX
@@ -7931,7 +7792,7 @@ end
                     <CheatEntry>
                       <ID>2</ID>
                       <Description>"🚫 Effect Protection 🚫"</Description>
-                      <LastState Activated="1"/>
+                      <LastState/>
                       <Color>B3B300</Color>
                       <VariableType>Auto Assembler Script</VariableType>
                       <AssemblerScript>{Script by GonthorianDX
@@ -8009,7 +7870,7 @@ end
                     <CheatEntry>
                       <ID>1337024749</ID>
                       <Description>"Repair Powder Firelink"</Description>
-                      <LastState Activated="1"/>
+                      <LastState/>
                       <VariableType>Auto Assembler Script</VariableType>
                       <AssemblerScript>{Script by Sacred
 Use Repair Powder to return to Firelink Shrine}
@@ -8057,7 +7918,6 @@ end
             <CheatEntry>
               <ID>73354</ID>
               <Description>"🤡 Head Size🤡"</Description>
-              <LastState Value="0.003921627998" RealAddress="7FF5A08B19E0"/>
               <Color>FF0000</Color>
               <VariableType>Float</VariableType>
               <Address>BaseA</Address>
@@ -8093,7 +7953,6 @@ end
 
 							
 </DropDownList>
-              <LastState Value="1" RealAddress="7FF5A08B01F0"/>
               <Color>FF0000</Color>
               <VariableType>Byte</VariableType>
               <Address>BaseC</Address>
@@ -10082,7 +9941,7 @@ end
             <CheatEntry>
               <ID>1337024788</ID>
               <Description>"🎫 Repair Powder Firelink 🎫"</Description>
-              <LastState Activated="1"/>
+              <LastState/>
               <Color>008080</Color>
               <VariableType>Auto Assembler Script</VariableType>
               <AssemblerScript>{Script by Sacred
@@ -10680,7 +10539,7 @@ To activate/deactivate, Press CTRL + F2}
                               <VariableType>Auto Assembler Script</VariableType>
                               <AssemblerScript>{Script by GonthorianDX
 Turns the Heavy Crossbow into a crossbow that destroys other hackers
-This crossbow uses Wooden Bolts for ammo
+This crossbow uses Wooden Bolts or Splintering Bolts for ammo
 
 DO ONLY USE THIS TOOL AGAINST OTHER HACKERS!
 NOT AGAINST LEGIT PLAYERS AND YOUR FELLOW OGRES!
@@ -11157,11 +11016,11 @@ This will protect you from A crash bullet (which you also have!) and EarRape}
     </SymbolEntry>
     <SymbolEntry>
       <Name>hasvalue</Name>
-      <Address> 140860491</Address>
+      <Address>140860491</Address>
     </SymbolEntry>
     <SymbolEntry>
       <Name>ParamPatchAOB</Name>
-      <Address> 1404EA050</Address>
+      <Address>1404EA050</Address>
     </SymbolEntry>
   </UserdefinedSymbols>
   <Structures StructVersion="2">
