@@ -1,6 +1,7 @@
 You have been chosen by the Almighty Ogrelord to aid him in his great cause.
 
-###(https://github.com/GonthorianDX/The-Ogre-Table/archive/master.zip)###
+
+[Download Here](https://github.com/GonthorianDX/The-Ogre-Table/archive/master.zip)
 
 
 You have been granted a table you can use with Cheat Engine 6.6 (included in the .zip) that will transform you into an Ogre.
