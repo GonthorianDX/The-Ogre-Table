@@ -1,7 +1,7 @@
 You have been chosen by the Almighty Ogrelord to aid him in his great cause.
 
-[Download](https://github.com/GonthorianDX/The-Ogre-Table/archive/master.zip)
-This site was built using [GitHub Pages](https://pages.github.com/).
+###(https://github.com/GonthorianDX/The-Ogre-Table/archive/master.zip)###
+
 
 You have been granted a table you can use with Cheat Engine 6.6 (included in the .zip) that will transform you into an Ogre.
 When transformed you are allowed to perform special Ogre Magic and have access to powerful tools.
