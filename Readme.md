@@ -32,6 +32,7 @@ Once the character is transformed into an Ogre in the creator the chances on get
 My general tip is to pick a spot, activate the dried fingers, then unlock the invader limit and have some fun.
 
 --USE THIS TABLE AT YOUR OWN RISK, YOU MAY OR MAY NOT GET BANNED--
+
 --IF YOU GET BANNED, DELETE YOUR CHARACTERS AND WAIT 2-5 WEEKS FOR AN UNBAN--
 
 
