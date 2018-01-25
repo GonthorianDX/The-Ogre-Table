@@ -29,7 +29,7 @@
     </CheatEntry>
     <CheatEntry>
       <ID>1337024734</ID>
-      <Description>"TABLE VERSION 2.3 (TEST VERSION)"</Description>
+      <Description>"TABLE VERSION 2.3"</Description>
       <LastState Value="" RealAddress="00000000"/>
       <Color>800080</Color>
       <GroupHeader>1</GroupHeader>
