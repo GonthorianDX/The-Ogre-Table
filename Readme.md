@@ -25,7 +25,7 @@ My general tip is to pick a spot, activate the dried fingers, then unlock the in
 
 --USE THIS TABLE AT YOUR OWN RISK, YOU MAY OR MAY NOT GET BANNED. ONLY USE THIS TABLE ON A FAMILY SHARE ACCOUNT--
 
-If you have any questions or want to hang out, feel free to join my [Discord](Discord: https://discord.gg/TWWgA4rw7g)
+If you have any questions or want to hang out, feel free to join my [Discord](https://discord.gg/TWWgA4rw7g)
 The Ogrelord
 
 -GonthorianDX (Its all Ogre now)
